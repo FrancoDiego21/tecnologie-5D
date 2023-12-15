@@ -1,2 +1,17 @@
 <h1 class="text-center">Auto ufficiali</h1>
 
+<div class="card-columns">
+    <div class="col-md-12">
+      <div class="card border-dark" *ngFor="let t of squadre" >
+        <img class="card-img-top" src={{t.logo}}>
+        <div class="card-body">
+          <h5 class="card-title">{{t.nome}}</h5>
+          <p class="card-text">Nome auto: {{t.nomeAuto}}</p>
+          <p class="card-text">Campionati vinti: {{t.campionatiVinti}}</p>
+          <p class="card-text">Anno ingresso: {{t.annoIngresso}}</p>
+          <p class="card-text">Base: {{t.base}}</p>
+          <img src={{t.immagineAuto}}>
+        </div>
+      </div>
+    </div>
+</div>

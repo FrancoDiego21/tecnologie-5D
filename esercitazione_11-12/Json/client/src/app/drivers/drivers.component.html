@@ -7,22 +7,22 @@
     <title>F1 Drivers</title>
 </head>
 <body>
-    <h1 class="text-center">Piloti ufficiali</h1>
+  <h1 class="text-center">Piloti ufficiali</h1>
 
-    <div class="row">
-      <div class="col-md">
-        <div class="card border-dark" *ngFor="let p of piloti">
-          <img class="card-img-top" src={{p.immagine}} >
-          <div class="card-body">
-            <h5 class="card-title">{{ p.nome }}</h5>
-            <p class="card-text">{{ p.nazionalita }}</p>
-            <p class="card-text">Numero: {{p.numero}}<p>
-            <p class="card-text">Scuderia: {{ p.scuderia}}</p>
-            <p class="card-text">Numero podi: {{p.podi}}</p>
-          </div>
+  <div class="card-columns">
+    <div class="col-md-12">
+      <div class="card border-dark" *ngFor="let p of piloti">
+        <img class="card-img-top" src={{p.immagine}} >
+        <div class="card-body">
+          <h5 class="card-title">{{ p.nome }}</h5>
+          <p class="card-text">Nazionalità: {{ p.nazionalita }}</p>
+          <p class="card-text">Numero: {{p.numero}}<p>
+          <p class="card-text">Scuderia: {{ p.scuderia}}</p>
+          <p class="card-text">Numero podi: {{p.podi}}</p>
         </div>
       </div>
     </div>
+  </div>
     
 </body>
 </html>
