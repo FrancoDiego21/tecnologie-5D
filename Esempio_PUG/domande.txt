@@ -1,0 +1,23 @@
+1.Nodemon è un pacchetto che permette di riavviare automaticamente il server ad ogni modifica
+
+2. Le viste PUG vanno inserite nella cartella 'view'
+
+3. Hanno l'estensione .PUG
+
+4. app.set('view engine', 'pug');
+
+5. app.get('/', function ( req, res){
+    res.render('index')
+    });
+
+6. Crea automaticamente un tag <ciao></ciao>
+
+7. si usa il cancelletto #header
+
+8. si usa il punto .header
+
+9. indentando il codice usando lo spazio e non TAB
+
+10. app.use(express.static(__dirname + '/public'));
+
+11. Crea due classi dentro al tag <a></a>
