@@ -1,0 +1,105 @@
+{
+    "team": [
+      {
+        "id": 1,
+        "nome": "Red Bull",
+        "logo": "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/red%20bull.jpg",
+        "nomeAuto": "RB18",
+        "campionatiVinti": 6,
+        "annoIngresso": 1997,
+        "base": "Milton Keynes, Regno Unito",
+        "immagineAuto": "https://media.formula1.com/content/dam/fom-website/teams/2023/teamcar-redbull.png.transform/2col/image.png"
+      },
+      {
+        "id": 2,
+        "nome": "Ferrari",
+        "logo": "https://media.formula1.com/content/dam/fom-website/teams/Ferrari/logo-ferrari-18%20.jpg",
+        "nomeAuto": "SF-23",
+        "campionatiVinti": 16,
+        "annoIngresso": 1950,
+        "base": "Maranello, Italia",
+        "immagineAuto": "https://media.formula1.com/content/dam/fom-website/teams/2023/ferrari.png.transform/2col/image.png"
+      },
+      {
+        "id": 3,
+        "nome": "Mercedes",
+        "logo": "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/mercedes.jpg",
+        "nomeAuto": "W 14",
+        "campionatiVinti": 8,
+        "annoIngresso": 1970,
+        "base": "Brackley, Regno Unito",
+        "immagineAuto": "https://media.formula1.com/content/dam/fom-website/teams/2023-Team-Pages/teamcar-mercedes.png.transform/2col/image.png"
+      },
+      {
+        "id": 4,
+        "nome": "McLaren",
+        "logo": "https://media.formula1.com/content/dam/fom-website/teams/McLaren/mclaren-logo.png",
+        "nomeAuto": "MCL60",
+        "campionatiVinti": 8,
+        "annoIngresso": 1966,
+        "base": "Woking, Regno Unito",
+        "immagineAuto": "https://media.formula1.com/content/dam/fom-website/teams/2023/mclaren.png.transform/2col/image.png"
+      },
+      {
+        "id": 5,
+        "nome": "Alpine",
+        "logo": "https://media.formula1.com/content/dam/fom-website/teams/Alpine/alpine-logo.png",
+        "nomeAuto": "A523",
+        "campionatiVinti": 2,
+        "annoIngresso": 1950,
+        "base": "Enstone, Regno Unito",
+        "immagineAuto": "https://media.formula1.com/content/dam/fom-website/teams/2023/alpine.png.transform/2col/image.png"
+      },
+      {
+        "id": 6,
+        "nome": "AlphaTauri",
+        "logo": "https://media.formula1.com/content/dam/fom-website/teams/AlphaTauri/logo-alpha-tauri.png",
+        "nomeAuto": "AT04",
+        "campionatiVinti": 0,
+        "annoIngresso": 2006,
+        "base": "Faenza, Italia",
+        "immagineAuto": "https://media.formula1.com/content/dam/fom-website/teams/2023/alphatauri.png.transform/2col/image.png"
+      },
+      {
+        "id": 7,
+        "nome": "Aston Martin",
+        "logo": "https://media.formula1.com/content/dam/fom-website/teams/AstonMartin/aston-martin-logo.png",
+        "nomeAuto": "AMR23",
+        "campionatiVinti": 0,
+        "annoIngresso": 1959,
+        "base": "Silverstone, Regno Unito",
+        "immagineAuto": "https://media.formula1.com/content/dam/fom-website/teams/2023/astonmartin.png.transform/2col/image.png"
+      },
+      {
+        "id": 8,
+        "nome": "Alfa Romeo",
+        "logo": "https://media.formula1.com/content/dam/fom-website/teams/AlfaRomeo/alfa-romeo-logo.png",
+        "nomeAuto": "C43",
+        "campionatiVinti": 1,
+        "annoIngresso": 1950,
+        "base": "Hinwil, Svizzera",
+        "immagineAuto": "https://media.formula1.com/content/dam/fom-website/teams/2023/alfaromeo.png.transform/2col/image.png"
+      },
+      {
+        "id": 9,
+        "nome": "Williams",
+        "logo": "https://media.formula1.com/content/dam/fom-website/teams/Williams/williams-logo.png",
+        "nomeAuto": "FW45",
+        "campionatiVinti": 9,
+        "annoIngresso": 1977,
+        "base": "Grove, Regno Unito",
+        "immagineAuto": "https://media.formula1.com/content/dam/fom-website/teams/2023/williams.png.transform/2col/image.png"
+      },
+      {
+        "id": 10,
+        "nome": "Haas",
+        "logo": "https://media.formula1.com/content/dam/fom-website/teams/Haas/haas-logo.png",
+        "nomeAuto": "VF-23",
+        "campionatiVinti": 0,
+        "annoIngresso": 2016,
+        "base": "Kannapolis, Stati Uniti",
+        "immagineAuto": "https://media.formula1.com/content/dam/fom-website/teams/2023/haas.png.transform/2col/image.png"
+      }
+    ]
+  }
+  

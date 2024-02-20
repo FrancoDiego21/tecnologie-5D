@@ -1,0 +1,58 @@
+{
+  "piloti": [
+    {
+      "id": 1,
+      "nome": "Max Verstappen",
+      "immagine": "https://media.formula1.com/content/dam/fom-website/drivers/2023Drivers/verstappen.jpg.img.640.medium.jpg/1701270073824.jpg",
+      "nazionalita": "Olanda",
+      "numero": 1,
+      "scuderia": "Red Bull",
+      "podi": 98
+    },
+    {
+      "id": 2,
+      "nome": "Sergio Perez",
+      "immagine": "https://media.formula1.com/content/dam/fom-website/drivers/2023Drivers/perez.jpg.img.640.medium.jpg/1677069773437.jpg",
+      "nazionalita": "Messico",
+      "numero": 11,
+      "scuderia": "Red Bull",
+      "podi": 35
+    },
+    {
+      "id": 3,
+      "nome": "Charles Leclerc",
+      "immagine": "https://media.formula1.com/content/dam/fom-website/drivers/2023Drivers/leclerc.jpg.img.1536.high.jpg",
+      "nazionalita": "Monaco",
+      "numero": 16,
+      "scuderia": "Ferrari",
+      "podi": 30
+    },
+    {
+      "id": 4,
+      "nome": "Carlos Sainz",
+      "immagine": "https://media.formula1.com/content/dam/fom-website/drivers/2023Drivers/sainz.jpg.img.1536.high.jpg",
+      "nazionalita": "Spagna",
+      "numero": 55,
+      "scuderia": "Ferrari",
+      "podi": 18
+    },
+    {
+      "id": 5,
+      "nome": "Lewis Hamilton",
+      "immagine": "https://media.formula1.com/content/dam/fom-website/drivers/2023Drivers/hamilton.jpg.img.640.medium.jpg/1677069594164.jpg",
+      "nazionalita": "Inghilterra",
+      "numero": 44,
+      "scuderia": "Mercedes",
+      "podi": 197
+    },
+    {
+      "id": 6,
+      "nome": "George Russell",
+      "immagine": "https://media.formula1.com/content/dam/fom-website/drivers/2023Drivers/russell.jpg.img.1920.medium.jpg/1677069334466.jpg",
+      "nazionalita": "Inghilterra",
+      "numero": 63,
+      "scuderia": "Mercedes",
+      "podi": 11
+    }
+  ]
+}
