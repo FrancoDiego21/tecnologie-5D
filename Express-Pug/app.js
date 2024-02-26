@@ -11,7 +11,7 @@ app.get('/', function ( req, res){
     //res.send('Hello world!')
     res.render('index', {
         title: 'F1 Drivers and Teams',
-        teams: teams.team
+        
 
     });
 });
@@ -19,10 +19,38 @@ app.get('/', function ( req, res){
 app.get('/piloti', function(req, res){
     res.render('piloti',{
         title: 'Piloti F1',
-        drivers: drivers.piloti
+        driver: drivers.piloti
 
     });
 });
+
+app.get('/auto', function(req, res){
+    res.render('auto',{
+        title: 'Auto F1',
+        teams: teams.team
+
+    });
+});
+
+
+app.get('/driver', function(req, res){
+    const dr = drivers.piloti.find((p) => p.id == req.query.id);
+    res.render('driver', {
+        title:  `About pilota`,
+        dr,
+
+    });
+});
+
+app.get('/team', function(req, res){
+    const t = teams.team.find((p) => p.id == req.query.id);
+    res.render('team', {
+        title:  `About ${t.nome}`,
+        t,
+
+    });
+});
+
 
 
 

@@ -33,7 +33,7 @@
       {
         "id": 4,
         "nome": "McLaren",
-        "logo": "https://media.formula1.com/content/dam/fom-website/teams/McLaren/mclaren-logo.png",
+        "logo": "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/mclaren.jpg",
         "nomeAuto": "MCL60",
         "campionatiVinti": 8,
         "annoIngresso": 1966,
@@ -43,7 +43,7 @@
       {
         "id": 5,
         "nome": "Alpine",
-        "logo": "https://media.formula1.com/content/dam/fom-website/teams/Alpine/alpine-logo.png",
+        "logo": "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/alpine.jpg",
         "nomeAuto": "A523",
         "campionatiVinti": 2,
         "annoIngresso": 1950,
@@ -52,8 +52,8 @@
       },
       {
         "id": 6,
-        "nome": "AlphaTauri",
-        "logo": "https://media.formula1.com/content/dam/fom-website/teams/AlphaTauri/logo-alpha-tauri.png",
+        "nome": "RB",
+        "logo": "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/rb.jpg",
         "nomeAuto": "AT04",
         "campionatiVinti": 0,
         "annoIngresso": 2006,
@@ -63,17 +63,17 @@
       {
         "id": 7,
         "nome": "Aston Martin",
-        "logo": "https://media.formula1.com/content/dam/fom-website/teams/AstonMartin/aston-martin-logo.png",
+        "logo": "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/aston%20martin%202024.jpg",
         "nomeAuto": "AMR23",
         "campionatiVinti": 0,
         "annoIngresso": 1959,
         "base": "Silverstone, Regno Unito",
-        "immagineAuto": "https://media.formula1.com/content/dam/fom-website/teams/2023/astonmartin.png.transform/2col/image.png"
+        "immagineAuto": "https://media.formula1.com/content/dam/fom-website/teams/2023/teamcar-astonmartin.png.transform/2col/image.png"
       },
       {
         "id": 8,
-        "nome": "Alfa Romeo",
-        "logo": "https://media.formula1.com/content/dam/fom-website/teams/AlfaRomeo/alfa-romeo-logo.png",
+        "nome": "Kick Sauber",
+        "logo": "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/kick%20sauber.png",
         "nomeAuto": "C43",
         "campionatiVinti": 1,
         "annoIngresso": 1950,
@@ -83,7 +83,7 @@
       {
         "id": 9,
         "nome": "Williams",
-        "logo": "https://media.formula1.com/content/dam/fom-website/teams/Williams/williams-logo.png",
+        "logo": "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/team%20logos/williams.jpg",
         "nomeAuto": "FW45",
         "campionatiVinti": 9,
         "annoIngresso": 1977,

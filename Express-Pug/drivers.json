@@ -3,7 +3,7 @@
     {
       "id": 1,
       "nome": "Max Verstappen",
-      "immagine": "https://media.formula1.com/content/dam/fom-website/drivers/2023Drivers/verstappen.jpg.img.640.medium.jpg/1701270073824.jpg",
+      "immagine": "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/verstappen.jpg.img.1920.medium.jpg/1708344264039.jpg",
       "nazionalita": "Olanda",
       "numero": 1,
       "scuderia": "Red Bull",
@@ -13,7 +13,7 @@
     {
       "id": 2,
       "nome": "Sergio Perez",
-      "immagine": "https://media.formula1.com/content/dam/fom-website/drivers/2023Drivers/perez.jpg.img.640.medium.jpg/1677069773437.jpg",
+      "immagine": "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/perez.jpg.img.1920.medium.jpg/1708344497222.jpg",
       "nazionalita": "Messico",
       "numero": 11,
       "scuderia": "Red Bull",
@@ -23,7 +23,7 @@
     {
       "id": 3,
       "nome": "Charles Leclerc",
-      "immagine": "https://media.formula1.com/content/dam/fom-website/drivers/2023Drivers/leclerc.jpg.img.1536.high.jpg",
+      "immagine": "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/leclerc.jpg.img.1920.medium.jpg/1708344558637.jpg",
       "nazionalita": "Monaco",
       "numero": 16,
       "scuderia": "Ferrari",
@@ -33,7 +33,7 @@
     {
       "id": 4,
       "nome": "Carlos Sainz",
-      "immagine": "https://media.formula1.com/content/dam/fom-website/drivers/2023Drivers/sainz.jpg.img.1536.high.jpg",
+      "immagine": "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/sainz.jpg.img.1920.medium.jpg/1708344524647.jpg",
       "nazionalita": "Spagna",
       "numero": 55,
       "scuderia": "Ferrari",
@@ -43,7 +43,7 @@
     {
       "id": 5,
       "nome": "Lewis Hamilton",
-      "immagine": "https://media.formula1.com/content/dam/fom-website/drivers/2023Drivers/hamilton.jpg.img.640.medium.jpg/1677069594164.jpg",
+      "immagine": "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/hamilton.jpg.img.1920.medium.jpg/1708362076344.jpg",
       "nazionalita": "Inghilterra",
       "numero": 44,
       "scuderia": "Mercedes",
@@ -53,12 +53,12 @@
     {
       "id": 6,
       "nome": "George Russell",
-      "immagine": "https://media.formula1.com/content/dam/fom-website/drivers/2023Drivers/russell.jpg.img.1920.medium.jpg/1677069334466.jpg",
+      "immagine": "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/russell.jpg.img.1920.medium.jpg/1708362100444.jpg",
       "nazionalita": "Inghilterra",
       "numero": 63,
       "scuderia": "Mercedes",
       "podi": 11,
-      "bio" : "È l’autista con il motto: “In caso di dubbio, vai a tutto gas”. George Russell ha vissuto secondo questo principio per tutta la sua carriera in F1 fino ad oggi, superando il compagno di squadra Robert Kubica in tutti i 21 Gran Premi della sua stagione da rookie, riportando la Williams sul podio nel 2021 e ottenendo la sua prima vittoria in gara con la Mercedes nel 2022. Quella brillante velocità di base è stata molto utile a Russell mentre accumulava titoli nel suo cammino verso la Formula 1. Il britannico ha fatto irruzione nel campionato GP3 2017 e ha consegnato la corona di Formula 2 2018 sotto un'enorme pressione. Individuando il suo potenziale, i campioni del mondo Mercedes si sono precipitati a ingaggiarlo nel loro programma junior nel 2017, quando Russell aveva già un accordo DTM sul tavolo. Ha accumulato più esperienza con sessioni di prove libere con la Force India e test per le Frecce d'Argento, prima di approdare alla sua Williams da corsa con motore Mercedes. Il rifiuto di cedere terreno ai suoi rivali – e l’impegno per un passaggio difficile – sono alla base della mentalità vincente di Russell. Ed è ciò che gli è valso la convocazione per sostituire Lewis Hamilton per un’apparizione una tantum in Mercedes a Sakhir 2020, quando il campione in carica è stato colpito dal Covid-19. Quella svolta da stella ha visto Russell perdere la pole per soli 0,026 secondi e poi superare il fedele Valtteri Bottas della Mercedes. Solo un pit stop pasticciato e una foratura finale straziante hanno impedito una vittoria quasi certa per il super-sub emergente. Ha tenuto la testa bassa alla Williams nel 2021, ottenendo i suoi primi punti e il podio, tenendo gli occhi puntati sul premio più grande. Avendo dimostrato di essere un gran lavoratore e un talento tenace, quel premio arrivò sotto forma di un'opportunità di affrontare il connazionale e sette volte campione Hamilton con una moto identica. È stata un’opportunità che Russell ha apprezzato molto e ha ottenuto la sua prima vittoria in F1 – e l’unica vittoria della Mercedes nel 2022 – in Brasile. La stagione 2023 si è rivelata più dura, ma se le Frecce d’Argento riusciranno a riprendersi e a fornirgli un’auto davvero competitiva, la corsa al titolo sarà sicuramente allettante. Una sfida enorme, ma, come sempre, 'Russell the Rocket' andrà a tutto gas."
+      "bio" : "È il pilota con il motto: “In caso di dubbio, vai a tutto gas”. George Russell ha vissuto secondo questo principio per tutta la sua carriera in F1 fino ad oggi, superando il compagno di squadra Robert Kubica in tutti i 21 Gran Premi della sua stagione da rookie, riportando la Williams sul podio nel 2021 e ottenendo la sua prima vittoria in gara con la Mercedes nel 2022. Quella brillante velocità di base è stata molto utile a Russell mentre accumulava titoli nel suo cammino verso la Formula 1. Il britannico ha fatto irruzione nel campionato GP3 2017 e ha consegnato la corona di Formula 2 2018 sotto un'enorme pressione. Individuando il suo potenziale, i campioni del mondo Mercedes si sono precipitati a ingaggiarlo nel loro programma junior nel 2017, quando Russell aveva già un accordo DTM sul tavolo. Ha accumulato più esperienza con sessioni di prove libere con la Force India e test per le Frecce d'Argento, prima di approdare alla sua Williams da corsa con motore Mercedes. Il rifiuto di cedere terreno ai suoi rivali – e l’impegno per un passaggio difficile – sono alla base della mentalità vincente di Russell. Ed è ciò che gli è valso la convocazione per sostituire Lewis Hamilton per un’apparizione una tantum in Mercedes a Sakhir 2020, quando il campione in carica è stato colpito dal Covid-19. Quella svolta da stella ha visto Russell perdere la pole per soli 0,026 secondi e poi superare il fedele Valtteri Bottas della Mercedes. Solo un pit stop pasticciato e una foratura finale straziante hanno impedito una vittoria quasi certa per il super-sub emergente. Ha tenuto la testa bassa alla Williams nel 2021, ottenendo i suoi primi punti e il podio, tenendo gli occhi puntati sul premio più grande. Avendo dimostrato di essere un gran lavoratore e un talento tenace, quel premio arrivò sotto forma di un'opportunità di affrontare il connazionale e sette volte campione Hamilton con una moto identica. È stata un’opportunità che Russell ha apprezzato molto e ha ottenuto la sua prima vittoria in F1 – e l’unica vittoria della Mercedes nel 2022 – in Brasile. La stagione 2023 si è rivelata più dura, ma se le Frecce d’Argento riusciranno a riprendersi e a fornirgli un’auto davvero competitiva, la corsa al titolo sarà sicuramente allettante. Una sfida enorme, ma, come sempre, 'Russell the Rocket' andrà a tutto gas."
     }
   ]
 }

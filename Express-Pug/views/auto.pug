@@ -10,21 +10,21 @@ html
                 img(src="https://www.formula1.com/etc/designs/fom-website/images/f1_logo.svg" href="#" height="70px" width="60px")
         
         
-            
+           
 
         h1.text-center Piloti ufficiali 
 
         .card-columns
             .row
-                each d in driver
+                each a in teams
                     .col-md-6
                         .card.border-dark
-                            img.card-img-top(src=d.immagine, height="300", width="200")
+                            img.card-img-top(src=a.logo, width="200", height="150")
                             .card-body
                                 h5.card-title 
-                                    b #{d.nome}
-                                a(href=`/driver?id=${d.id}`)
-                                    | View Profile
+                                    b #{a.nome}
+                                a(href=`/team?id=${a.id}`)
+                                    | Dettagli
                                 
 
                 
