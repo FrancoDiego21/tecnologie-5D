@@ -2,15 +2,25 @@ doctype html
 html 
     head 
         title #{title}
-        link(rel='stylesheet', href='/css/style.css')
+        link(rel='stylesheet', href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css")
         meta(name="viewport" content="width=device-width, initial-scale=1")
     body 
-        header.header   
-            h1 #{title}
-        each pilota in drivers  
-            p #{pilota.nome}
-
-            
-        each macchina in teams 
-            p #{macchina.nome}
+        nav.navbar.navbar-exprend-lg.navbar-dark(style="background-color: rgb(228, 37, 37);")
+            a(href="/")
+                img(src="https://www.formula1.com/etc/designs/fom-website/images/f1_logo.svg" href="#" height="70px" width="60px")
         
+        br
+        container.text-center
+            .row
+                .col-md-6
+                    a(href='/piloti')
+                        img.img-fluid(src='https://storage.googleapis.com/fp-media/1/2023/12/F1-Line-Up-2024.jpg', alt='Icona 1', width="400px" height="400px")
+                        p Clicca per visualizzare delle informazioni sui piloti di F1
+            
+                    
+                .col-md-6
+                    a(href='/auto')
+                        img.img-fluid(src='https://www.today.it/~media/horizontal-hi/27859665956986/haas_f1_team_livrea-1.jpg', alt='Icona 2', width="400px" height="400px")
+                        p Clicca per visualizzare delle informazioni sulle auto di F1
+                
+                

@@ -11,8 +11,15 @@ app.get('/', function ( req, res){
     //res.send('Hello world!')
     res.render('index', {
         title: 'F1 Drivers and Teams',
-        drivers: drivers.piloti,
         teams: teams.team
+
+    });
+});
+
+app.get('/piloti', function(req, res){
+    res.render('piloti',{
+        title: 'Piloti F1',
+        drivers: drivers.piloti
 
     });
 });
